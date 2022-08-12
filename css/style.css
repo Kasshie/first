@@ -1,32 +1,55 @@
-body
-{
+body {
     background-color: black;
+    margin-left: 600px;
+    margin-right: 600px;
     
 }
+
 h1 {
     color: white;
     text-align: center;
 }
+
 h2 {
     color: white;
 }
+
 h3 {
     color: white;
 }
+
 h4 {
     color: white;
 }
-ul
-{
+
+ul {
     color: white;
+    display: inline-block;
 }
-ol
-{
+
+ol {
     color: white;
+    display: inline-block;
 }
-p
-{
+
+p {
     color: white;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+}
+
+
+.introduction {
+    border: 5px solid #FFFFFF;
+    text-align: center;
+}
+
+.habitat {
+    border: 5px solid #FFFFFF;
+    text-align: center;
+}
+
+.media {
+    border: 5px solid white;
+    text-align: center;
 }
